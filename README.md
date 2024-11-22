@@ -1,5 +1,13 @@
 # Web-based
 
+## Download
+
+To download the required documents, run the following commands
+
+```bash
+git clone https://github.com/Ashuradhipathi/Web-based.git
+```
+
 ## Installation
 
 To install the required dependencies, run the following command:
